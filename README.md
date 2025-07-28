@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there! I'm Joel Campos
 
-<!--
-**jacamposp/jacamposp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer with experience in frontend and backend systems, automation, and building custom solutions. I enjoy working with TypeScript and no-code tools like n8n.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
+- 🧠 AI & Automation: n8n, OpenAI APIs
+- 💻 Backend: Node.js, Express
+- ⚙️ Databases: MySQL, PostgreSQL, MongoDB
+- 🧪 Testing: Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- ⚽️ **SportBook** – Airbnb-style app to book sports fields *(in development)*
+- 📰 **TechNews Scraper** – App that scrapes and stores tech news automatically using automation tools and Python
+- 🤖 Accounting automation with QuickBooks and n8n
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/joelcamposp/)
+- [Email](mailto:jcamposp10@gmail.com)
+- [Portfolio](https://joe-react.netlify.app/)
+
+---
+
+Thanks for visiting my profile! 🚀
