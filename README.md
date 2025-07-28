@@ -10,7 +10,7 @@ Software developer with experience in frontend and backend systems, automation, 
 
 ## 📌 Featured Projects
 - ⚽️ **SportBook** – Airbnb-style app to book sports fields *(in development)*
-- 📰 **TechNews Scraper** – App that scrapes and stores tech news automatically using automation tools and Python
+- 📰 **TechNews Scraper** – App that scrapes and stores tech news automatically using automation tools
 - 🤖 Accounting automation with QuickBooks and n8n
 
 ## 📫 Contact
