@@ -4,8 +4,8 @@ Software developer with experience in frontend and backend systems, automation, 
 
 ## 🚀 Technologies & Tools
 - 🧠 AI & Automation: n8n, OpenAI APIs
-- 💻 Backend: Node.js, Express
-- ⚙️ Databases: MySQL, PostgreSQL, MongoDB
+- 💻 Backend & Frontend: Node.js, Express, React, NextJS
+- ⚙️ Databases: MySQL, Supabase, Prisma
 - 🧪 Testing: Jest
 
 ## 📌 Featured Projects
@@ -16,7 +16,7 @@ Software developer with experience in frontend and backend systems, automation, 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/joelcamposp/)
 - [Email](mailto:jcamposp10@gmail.com)
-- [Portfolio](https://joe-react.netlify.app/)
+- [Portfolio](https://joecpdev.vercel.app/)
 
 ---
 
