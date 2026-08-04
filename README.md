@@ -47,7 +47,7 @@ I'm a software developer from **Costa Rica** 🌴 who enjoys turning messy, manu
 
 | Project | Description |
 |---|---|
-| 🏟️ **[Sportico](https://github.com/jacamposp/sportico)** | Airbnb-style platform for booking sports fields — live at [sporticocr.app](https://sportico.app/) |
+| 🏟️ **[Sportico](https://github.com/jacamposp/sportico)** | Airbnb-style platform for booking sports fields — live at [sporticocr.app](https://sporticocr.app/) |
 | 💼 **[personal-portfolio](https://github.com/jacamposp/personal-portfolio)** | My personal portfolio site, live at [joecpdev.vercel.app](https://joecpdev.vercel.app/) |
 | ✍️ **[blog](https://github.com/jacamposp/blog)** | Personal blog project — currently in the works |
 | 📰 **TechNews Scraper** | Automated pipeline that scrapes and stores tech news using n8n |
