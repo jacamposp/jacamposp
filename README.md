@@ -1,78 +1,167 @@
-# Hi, I'm Joel Campos Porras 👋
+<div align="center">
 
-### Full Stack Developer 🇨🇷 building web apps, automations, and things that don't break at 2am
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=180&section=header&text=Joel%20Campos%20Porras&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20Costa%20Rica&descAlignY=54&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=TypeScript+%2B+Node.js+%2B+React;Full-stack+products%2C+shipped+end+to+end;Turning+ideas+into+real+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=TypeScript+%2B+Next.js+%2B+PostgreSQL;Building+Sportico%2C+a+live+marketplace;Full-stack+products%2C+shipped+end+to+end)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelcamposp/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joecpdev.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcamposp10@gmail.com)
+[![Location](https://img.shields.io/badge/Costa%20Rica-6D28D9?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4C1D95?style=flat-square&logo=vercel&logoColor=white)](https://joecpdev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelcamposp/)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:jcamposp10@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a software developer from **Costa Rica** 🌴 who builds full products end to end — from database schema to UI polish — and enjoys turning messy, manual processes into clean, automated systems.
+I'm a full stack developer from Costa Rica who builds products end to end — database schema, API, UI, deploy. I care about the parts users never see: booking logic that doesn't double-book, payment flows that reconcile, and code that still makes sense six months later.
 
-- 🔭 Currently building **[Sportico](https://sporticocr.app)**, a marketplace for booking sports fields — live and in active development
-- 💳 Recently shipped payments with **Onvo Pay**, a Costa Rican processor, instead of defaulting to Stripe
-- 🌱 Always tinkering with a new side project — client sites, e-commerce, dev tools, small games
-- 💬 Ask me about TypeScript, React/Next.js, or building with AI APIs
+Right now most of my time goes into **[Sportico](https://sporticocr.app)**, a live marketplace for booking sports fields, where I handle everything from the schema to the payments integration.
 
-## 🛠️ Tech Stack
+**Open to:** full stack roles · freelance projects · collaborations on product work
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+## Tech Stack
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+**Languages**
 
-## 📌 Featured Projects
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css&theme=dark)](https://skillicons.dev)
 
-| Project | Description |
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,prisma&theme=dark)](https://skillicons.dev)
+
+**Tooling & Deploy**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,jest,figma&theme=dark)](https://skillicons.dev)
+
+**Also working with**
+
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1E1B4B?style=flat-square&logo=shadcnui&logoColor=white)
+![Onvo Pay](https://img.shields.io/badge/Onvo%20Pay-1E1B4B?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-1E1B4B?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-1E1B4B?style=flat-square&logo=n8n&logoColor=white)
+
+---
+
+## Featured Projects
+
+<details open>
+<summary><b>🏟️ Sportico</b> — marketplace for booking sports fields <i>(live · commercial)</i></summary>
+
+<br>
+
+An Airbnb-style marketplace where players find and book sports fields, and field owners manage availability, pricing, and payments from a single dashboard.
+
+| | |
 | --- | --- |
-| 🏟️ **[Sportico](https://sporticocr.app)** | Airbnb-style marketplace for booking sports fields in Costa Rica. Commercial product — source private. |
-| ✍️ **[Oneiros](https://oneiros-blog.vercel.app/)** · [repo](https://github.com/jacamposp/oneiros-blog) | Literary blog built for a client — dream-inspired short stories with a custom CMS, auth, and image uploads. |
-| ⚽ **[Elite Soccer](https://elitesoccer.vercel.app/)** · [repo](https://github.com/jacamposp/ecommerce-app) | Full e-commerce store for soccer kits — product catalog, cart, and checkout flow. |
-| 📰 **[Tech News AI](https://tech-news-ai-app.vercel.app/)** | Curated feed of technology, AI, and programming news. |
+| **Stack** | Next.js · TypeScript · PostgreSQL · Tailwind CSS · shadcn/ui · Onvo Pay |
+| **Live** | [sporticocr.app](https://sporticocr.app) |
+| **Repository** | Private — commercial product |
+| **Status** | Live, in active development |
 
-### 🏟️ Sportico — what I'm building
+Built the authentication and role system, a real-time reservation flow that keeps availability in sync and prevents double-booking across overlapping time slots, analytics dashboards scoped by role so field owners and players each see what's relevant to them, and a payments integration with **Onvo Pay** — a Costa Rican processor — so transactions settle in local currency instead of routing through a US gateway.
 
-An Airbnb-style marketplace that lets people find and book sports fields, and lets
-field owners manage availability, pricing, and payments from one dashboard.
+Happy to walk through the architecture or give a live demo — [get in touch](mailto:jcamposp10@gmail.com).
 
-**Stack:** Next.js · TypeScript · PostgreSQL · Tailwind CSS · shadcn/ui · Onvo Pay
+</details>
 
-**What I built:** a booking engine that prevents double-booking across overlapping
-time slots, role-based dashboards for field owners and players, and a payments flow
-integrated with **Onvo Pay** — a Costa Rican processor — so bookings settle in local
-currency without routing through a US gateway.
+<details>
+<summary><b>✍️ Oneiros</b> — literary blog built for a client</summary>
 
-> 🔒 Source is private — it's a commercial product. Happy to walk through the
-> architecture or give you a live demo. [Get in touch](mailto:jcamposp10@gmail.com).
+<br>
 
-## 📊 GitHub Stats
+A publishing platform for an author's dream-inspired short stories, with a custom CMS so she can write, edit, and publish without touching code.
 
-[![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacamposp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/jacamposp)
-[![Joel's GitHub streak](https://streak-stats.demolab.com/?user=jacamposp&theme=tokyonight&hide_border=true)](https://github.com/jacamposp)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacamposp&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jacamposp)
+| | |
+| --- | --- |
+| **Stack** | Next.js · TypeScript · Prisma · Tailwind CSS · shadcn/ui · Vercel Blob |
+| **Live** | [oneiros-blog.vercel.app](https://oneiros-blog.vercel.app/) |
+| **Repository** | [oneiros-blog](https://github.com/jacamposp/oneiros-blog) |
+| **Status** | Shipped · client project |
 
-## 📫 Let's Connect
+Authentication, image uploads, and a two-tier content model (short "Fragmentos" and longer "Ex Somnia" pieces) with staged releases. Designed around the client's writing workflow rather than a generic blog template.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joelcamposp/)
-- 🌐 [Portfolio](https://joecpdev.vercel.app/)
-- ✉️ <jcamposp10@gmail.com>
+</details>
 
-_Thanks for stopping by! 🚀_
+<details>
+<summary><b>⚽ Elite Soccer</b> — e-commerce store for soccer kits</summary>
+
+<br>
+
+A full storefront for football jerseys: catalog, product pages, cart, and checkout.
+
+| | |
+| --- | --- |
+| **Stack** | Next.js · TypeScript · Tailwind CSS · Vercel Blob |
+| **Live** | [elitesoccer.vercel.app](https://elitesoccer.vercel.app/) |
+| **Repository** | [ecommerce-app](https://github.com/jacamposp/ecommerce-app) |
+| **Status** | Shipped |
+
+Product catalog with variant handling, persistent cart state, and a responsive storefront built to feel like a real retail site rather than a demo.
+
+</details>
+
+<details>
+<summary><b>📰 Tech News AI</b> — curated technology news feed</summary>
+
+<br>
+
+An aggregator that pulls together technology, AI, and programming news into a single readable feed.
+
+| | |
+| --- | --- |
+| **Stack** | React 19 · TypeScript · Vite · Tailwind CSS 4 · shadcn/ui · Axios |
+| **Live** | [tech-news-ai-app.vercel.app](https://tech-news-ai-app.vercel.app/) |
+| **Status** | Shipped |
+
+Built on Radix UI primitives through shadcn/ui, with a typed API layer over Axios and ESLint configured for TypeScript across the project.
+
+</details>
+
+---
+
+## Current Focus
+
+```yaml
+building:   Sportico — booking marketplace, live in Costa Rica
+learning:   payment systems, multi-tenant architecture, testing at scale
+exploring:  AI APIs for product features that actually earn their place
+open_to:    full stack roles · freelance · product collaborations
+```
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jacamposp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6)
+![Streak](https://streak-stats.demolab.com/?user=jacamposp&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacamposp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6)
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcamposp10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelcamposp/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://joecpdev.vercel.app/)
+
+<br>
+
+<i>Building things that don't break at 2am.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=120&section=footer" width="100%" />
+
+</div>
